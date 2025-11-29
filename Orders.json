@@ -1,0 +1,23 @@
+[
+    {
+        "order_number": "1",
+        "user": "user1",
+        "bludo": "Хз говно",
+        "quantity": 1,
+        "state": "Готовится"
+    },
+    {
+        "order_number": "2",
+        "user": "user1",
+        "bludo": "Картошка с сосиской",
+        "quantity": 3,
+        "state": "None"
+    },
+    {
+        "order_number": "3",
+        "user": "user1",
+        "bludo": "Говно бомжа",
+        "quantity": 3,
+        "state": "None"
+    }
+]
